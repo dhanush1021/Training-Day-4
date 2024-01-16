@@ -1,2 +1,2 @@
 echo "Hello World"
-My name is dhanush
+echo "My name is dhanush"
